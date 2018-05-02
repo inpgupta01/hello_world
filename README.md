@@ -1,2 +1,3 @@
 # hello_world
-My first git hub repository
+It looks good for me now . 
+Thanks for supporting me .
